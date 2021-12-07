@@ -8,6 +8,6 @@
  [作業說明](https://github.com/stephanie0324/2021_Fall_MDS/blob/main/HW2/MDS_Assignment2_2021.pdf)  
  [作業二](https://github.com/stephanie0324/2021_Fall_MDS/blob/main/HW2/MDS_HW2.ipynb)
  #### HW 3 (11/19 - 12/10)
- * 本週主題為 Deep learning ,CNN, LSTM 
+ * 本週主題為 Deep learning ,CNN, LSTM   
  [作業說明](https://github.com/stephanie0324/2021_Fall_MDS/blob/main/HW3/MDS_Assignment3_2021.pdf)
- []()
+ [作業三](https://github.com/stephanie0324/2021_Fall_MDS/blob/main/HW3/MDS_HW5.ipynb)
